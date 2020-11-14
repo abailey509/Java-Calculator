@@ -5,3 +5,8 @@ How to Set Up Development Enviroment:
 1. Download and install Visual Studio Code
 2. Within Studio Code Download Java Development Tools
 3. Run the program
+
+Helpful Resources:
+https://www.tutorialspoint.com/java/index.htm
+https://www.youtube.com
+https://stackoverflow.com/
